@@ -11,3 +11,6 @@
 *.mov
 *.mkv
 *.wmv
+
+#Ignore Project Folder
+Project/
